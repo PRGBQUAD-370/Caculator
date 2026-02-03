@@ -1,2 +1,2 @@
 # Calculator
-This is my first caculator I created
+This is my first calculator I created
